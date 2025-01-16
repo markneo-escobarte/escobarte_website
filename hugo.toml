@@ -1,0 +1,4 @@
+baseURL ="/"
+cd = "escobarte_Website"
+title = "Speedsters"
+theme = "PaperMod"

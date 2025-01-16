@@ -1,0 +1,3 @@
+baseURL = "/"
+title = "escobarte_website"
+theme = "PaperMod"
