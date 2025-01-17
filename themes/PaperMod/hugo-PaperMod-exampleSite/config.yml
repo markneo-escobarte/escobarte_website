@@ -185,7 +185,7 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "/speedster-logo.png" # Path to favicon
+    favicon: "/speedster-logo.png"
     favicon16x16: "/speedster-logo.png"
     favicon32x32: "/speedster-logo.png"
     apple_touch_icon: "/speedster-logo.png"
