@@ -6,12 +6,12 @@
     <description>Recent content on Speedsters</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pagani Huayra R BC Gallery</title>
       <link>//localhost:1313/posts/markdown-syntax.fr/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/markdown-syntax.fr/</guid>
       <description>Explore the Pagani Huayra R BC through its specifications, performance, and features, complemented by an exclusive image gallery.</description>
     </item>
@@ -23,11 +23,18 @@
       <description>Read about the history, origin, and release date of the Pagani Huayra Roadster BC, along with an exclusive image gallery.</description>
     </item>
     <item>
-      <title>Specifications and Performance</title>
+      <title>Pagani Utopia Roadster</title>
       <link>//localhost:1313/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
-      <description>Read about the specifications, performance, and features of the Pagani Huayra Roadster BC, along with an exclusive image gallery.</description>
+      <description>Read about the origin, specifications, and key highlights of the Pagani Utopia Roadster, including an exclusive image gallery.</description>
+    </item>
+    <item>
+      <title>Pagani Zonda R Evolution</title>
+      <link>//localhost:1313/posts/rich-content/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/rich-content/</guid>
+      <description>Discover the ultimate track-focused machine, the Pagani Zonda R Evolution, with details on its origin, specifications, and breathtaking image gallery.</description>
     </item>
   </channel>
 </rss>

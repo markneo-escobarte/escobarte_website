@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/rich-content/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/markdown-syntax.fr/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,6 +13,24 @@
   </url><url>
     <loc>//localhost:1313/posts/papermod/papermod-features/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/pagani/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/track-car/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/zonda-r-evolution/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/gallery/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
@@ -20,25 +41,16 @@
     <loc>//localhost:1313/tags/huayra-r-bc/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pagani/</loc>
+    <loc>//localhost:1313/tags/hypercar/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/papermod/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/roadster-bc/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/specifications/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/utopia-roadster/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/archives.fr/</loc>

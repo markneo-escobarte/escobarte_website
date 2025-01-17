@@ -1,7 +1,7 @@
 ---
 title: "Pagani Huayra R BC Gallery"
 summary: Explore the Pagani Huayra R BC through its specifications, performance, and features, complemented by an exclusive image gallery.
-date: 2025-01-15
+date: 2025-01-17
 series: ["PaperMod"]
 weight: 1
 aliases: ["/pagani-huayra-r-bc-gallery"]
