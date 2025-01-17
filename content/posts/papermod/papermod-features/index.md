@@ -108,7 +108,7 @@ The Pagani Utopia Roadster originates from Italy, crafted by Pagani Automobili S
 
 - **Description**: A glimpse into the luxurious and high-tech interior of the Pagani Utopia Roadster.
 - **Images**:
-  - ![Dashboard](/pagani-utopia-driver-seat.avif)
+  - ![Dashboard](/pagani-utopia-drivers-seat.avif)
     *Driver's seat and dashboard of Pagani Utopia Roadster.*
   - ![Steering Wheel](/pagani-utopia-wheel.avif)
     *Pagani Utopia Roadster steering wheel.*
