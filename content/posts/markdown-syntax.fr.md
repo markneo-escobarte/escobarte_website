@@ -8,7 +8,7 @@ aliases: ["/pagani-huayra-r-bc-gallery"]
 tags: ["Pagani", "Huayra R BC", "Gallery"]
 author: ["Mark Neo Escobarte"]
 cover:
-  image: /Pagani-Huayra-BC-Roadster(filtered).png
+  image: /Pagani-Huayra-BC-Roadster(2).jpg
   hiddenInList: true
 ---
 

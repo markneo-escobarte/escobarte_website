@@ -6,14 +6,21 @@
     <description>Recent content in Roadster BC on Speedsters</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/roadster-bc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pagani Huayra Roadster BC</title>
       <link>//localhost:1313/posts/papermod/papermod-installation/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/papermod/papermod-installation/</guid>
       <description>Read about the history, origin, and release date of the Pagani Huayra Roadster BC, along with an exclusive image gallery.</description>
+    </item>
+    <item>
+      <title>Specifications and Performance</title>
+      <link>//localhost:1313/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
+      <description>Read about the specifications, performance, and features of the Pagani Huayra Roadster BC, along with an exclusive image gallery.</description>
     </item>
   </channel>
 </rss>

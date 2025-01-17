@@ -8,7 +8,7 @@ aliases: ["/pagani-huayra-roadster-bc"]
 tags: ["Pagani", "Roadster BC", "History"]
 author: ["Mark Neo Escobarte"]
 cover:
-  image: images/pagani_huayra_cover.jpg
+  image: /Pagani-Huayra-BC-Roadster(1).jpg
   hiddenInList: true
 ---
 
@@ -19,7 +19,17 @@ cover:
 
 ### History
 
-The Pagani Huayra Roadster BC is a masterpiece of automotive engineering and design. Introduced by Pagani Automobili, the Roadster BC is a celebration of open-air driving, combining stunning aesthetics with cutting-edge technology.
+The Pagani Huayra R was unveiled in 2021 as a limited-production hypercar, following in the footsteps of Pagani's earlier track-focused model, the Zonda R. The "R" in its name signifies its track-oriented nature, emphasizing raw power, aerodynamics, and exclusivity.
+
+The "BC" designation stands for Benny Caiola, a close friend of Horacio Pagani and one of the company’s earliest supporters. Benny Caiola was a passionate car collector and an admirer of Pagani's work. In his honor, the "BC" moniker is used for Pagani’s most extreme versions of its hypercars.
+
+### Design Philosophy
+
+The Huayra R BC combines art and performance, following Horacio Pagani's philosophy of blending beauty with cutting-edge technology. The car's development focused on achieving a perfect balance of:
+
+Lightweight construction: Extensive use of Carbo-Titanium and Carbo-Triax materials.
+Aerodynamic efficiency: Advanced design to enhance downforce and stability at high speeds.
+Track dominance: Engineered purely for the racetrack, it lacks road homologation to maximize performance without compromise.
 
 ### Origin
 
