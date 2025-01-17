@@ -1,7 +1,7 @@
 ---
 title: "Pagani Huayra R BC Gallery"
 summary: Explore the Pagani Huayra R BC through its specifications, performance, and features, complemented by an exclusive image gallery.
-date: 2021-01-20
+date: 2025-01-15
 series: ["PaperMod"]
 weight: 1
 aliases: ["/pagani-huayra-r-bc-gallery"]
@@ -20,9 +20,9 @@ cover:
 
 - **Description**: Showcasing the exterior design and various angles of the Pagani Huayra R BC.
 - **Images**:
-  - ![Front View](/Pagani-Huayra-BC-Roadster(4).jpg) - ![Side Profile](/Pagani-Huayra-BC-Roadster(6).jpg)
+  - ![Front View](/Pagani-Huayra-BC-Roadster(4).jpg)
     *Front view of Pagani Huayra R BC.*
-  
+  - ![Side Profile](/Pagani-Huayra-BC-Roadster(6).jpg)
     *Side profile of Pagani Huayra R BC.*
   - ![Rear View](/Pagani-Huayra-BC-Roadster(3).jpg)
     *Rear view of Pagani Huayra R BC.*

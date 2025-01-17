@@ -1,7 +1,7 @@
 ---
 title: "Pagani Huayra Roadster BC"
 summary: Read about the history, origin, and release date of the Pagani Huayra Roadster BC, along with an exclusive image gallery.
-date: 2021-01-20
+date: 2025-01-15
 series: ["PaperMod"]
 weight: 1
 aliases: ["/pagani-huayra-roadster-bc"]
